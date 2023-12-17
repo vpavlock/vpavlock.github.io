@@ -3,10 +3,10 @@ title: DANL Project
 subtitle: "Data-Driven Mastery: Unlocking Business Potential"
 author: 
   - Victoria Pavlock
-  - Name 2
-  - Name 3
-  - Name 4
-  - Name 5
+  - Jeremy Sun
+  - Henry Socash
+  - Jackson Boyer
+  - Alban
 
 toc: true
 toc-title: "Table of Contents"
@@ -52,11 +52,14 @@ About this project :clap:
 ```{r}
 1 + 1
 ```
-
+Studying earthquake data is very importatnt in becoming educated in the earths geological structure.
+Knowing information based on the earths interior helps us determine a number of things that go on in our
+environment. Earthquake data can help people find out what locations, times of year, etc. are most at risk of 
+earthquakes. With this information, we can then make decisions on matters that may go hand in hand with the risk
+of potential earthquakes.
 
 # Data
 
-The data.frame `mpg` contains a subset of the fuel economy data that the EPA makes available on [https://fueleconomy.gov/](https://fueleconomy.gov/). It contains only models which had a new release every year between 1999 and 2008 - this was used as a proxy for the popularity of the car. :oncoming_automobile:
 
 
 ## Summary Statistics
