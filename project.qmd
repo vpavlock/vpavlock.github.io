@@ -56,7 +56,7 @@ Studying earthquake data is very importatnt in becoming educated in the earths g
 Knowing information based on the earths interior helps us determine a number of things that go on in our
 environment. Earthquake data can help people find out what locations, times of year, etc. are most at risk of 
 earthquakes. With this information, we can then make decisions on matters that may go hand in hand with the risk
-of potential earthquakes.
+of potential earthquakes
 
 # Data
 
